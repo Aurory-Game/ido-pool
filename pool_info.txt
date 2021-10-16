@@ -1,0 +1,6 @@
+🏦 IDO pool initialized with 7000000000.00 tokens
+Pool Account: 7ar2SAWtSgxznkNUioKFLBHw3AWdJWa7o7Pd1KH3aBrY
+Pool Authority: 4vfiGsTsACLLApTiB96B8ZmUABgAU8Cdae1ePx8fByZa
+Redeem Mint: 9h5PCb8TXjHnr5wv4uJcDeRQQoabEQTfj3Gk5FfFaDeQ
+🍉 Account: Gp98BjgMG58n8kvtDiGSyK3ER4kKdK76kZyz4QHzE48B
+💵 Account: Dxdeyg54g2PU1EQbRbrXvEZKXEGHKGhwLUtZBJLYN6A8
